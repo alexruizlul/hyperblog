@@ -1,3 +1,5 @@
 Hola a todos.
 
 Soy Alex Ruiz y estoy aprendiendo Git y Github.
+
+Después tomaré el curso de HTML y CSS.
